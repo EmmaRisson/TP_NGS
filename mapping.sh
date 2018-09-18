@@ -1,5 +1,6 @@
 # MA VERSION
 #hey c'est un test pour voir si ca passe via git
+#2eme motif
 #!/bin/bash
 mkdir -p /mnt/data/variant_calling
 cd /mnt/data/variant_calling
